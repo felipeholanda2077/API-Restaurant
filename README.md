@@ -9,20 +9,7 @@
 <h4>API feita em base a um framework de site com um restaurante e sua localização no Google Maps</h4>
 <br>
 
-<p aling="center">Esse projeto...</p>
-<a href="#Sobre o Projeto">Sobre</a> •
-<a href="#Imagem">Imagem</a> •
-<a href="#Tecnologias">Tecnologias</a> •
-<a href="#Ferramentas">Ferramentas</a>
 
-<br>
-<br>
-
-#### Imagem
-
-<h1 aling="center">
-   <img alt="Readme" title="Readme" src="#" />
-</h1>
 
   ### Tecnologias 🚀
 
