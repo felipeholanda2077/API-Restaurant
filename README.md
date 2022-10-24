@@ -7,8 +7,8 @@
 # Sobre o Projeto 👨🏻‍💻
 
 <h4>API feita em base a um framework de site com um restaurante e sua localização no Google Maps</h4>
-<br>
 
+<br>
 
 
   ### Tecnologias 🚀
