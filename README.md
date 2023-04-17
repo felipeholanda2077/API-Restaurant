@@ -8,6 +8,10 @@
 
 <h4>API feita em base a um framework de site com um restaurante e sua localização no Google Maps</h4>
 
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=green&style=for-the-badge"/>
+</p>
+
 <br>
 
   ### Tecnologias 🚀
